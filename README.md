@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarhanAhmed786
 - 👀 I’m interested in programing 
-- 🌱 I’m currently pursuing Computer Science and Engineering
+- 🌱 I’m currently pursuing Computer Science and Engineering at BMSIT&M.
 - 📫 How to reach me farhan2004ahmed@gmail.com
 
 <!---
