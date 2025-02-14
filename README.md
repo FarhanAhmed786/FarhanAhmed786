@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 Have a look on my Portfolio [farhandev.me](farhandev.me)
+- 👨‍💻 Have a look on my Porfolio [farhandev.me](farhandev.me) 
 
 - 💬 Ask me about **JavaScript,C++,react**
 
